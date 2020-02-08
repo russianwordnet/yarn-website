@@ -4,7 +4,7 @@ title: About
 permalink: /en/
 ---
 
-The **Yet Another RussNet** (YARN) project was initiated in 2013 and aims at creating a large open WordNet-like machine-readable thesaurus for the Russian language through crowdsourcing. The project _objectives_ include creating the thesaurus, developing free and libré open source software to operate with it, designing the necessary data schemes and models, writing technical and user documentation. The thesaurus is available for download <https://russianword.net/yarn.xml> under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. The project is no longer maintained since 2018.
+The **Yet Another RussNet** (YARN) project was initiated in 2013 and aims at creating a large open WordNet-like machine-readable thesaurus for the Russian language through crowdsourcing. The project _objectives_ include creating the thesaurus, developing free and libré open source software to operate with it, designing the necessary data schemes and models, writing technical and user documentation. The thesaurus is available for download at <https://russianword.net/yarn.xml> under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. The project is no longer maintained since 2018.
 
 ## Documentation
 
@@ -12,7 +12,7 @@ We use both XML and CSV formats to represent our import and export data. Please 
 
 ## Publications
 
-* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](http://gwc2016.racai.ro/procedings.pdf#page=67))
+* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](http://www.racai.ro/p/gwc2016/procedings.pdf#page=67))
 
 ## Acknowledgements
 

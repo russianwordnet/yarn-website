@@ -3,15 +3,20 @@ layout: default
 title: О проекте
 ---
 
-**Yet Another RussNet** (сокр. YARN) — проект создания нового открытого электронного тезауруса русского языка. Основная идея проекта — эксперимент по комбинированию традиционных принципов создания ворднетов и вики-подхода к наполнению и редактированию лингвистических ресурсов. Тезаурус русского языка в формате XML можно скачать по адресу <https://russianword.net/yarn.xml> на условиях лицензии [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Работа над проектом прекращена с 2018 г.
+**Yet Another RussNet** (сокр. YARN) — проект создания нового открытого электронного тезауруса русского языка. Основная идея проекта — эксперимент по комбинированию традиционных принципов создания ворднетов и вики-подхода к наполнению и редактированию лингвистических ресурсов. Тезаурус доступен на условиях лицензии [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+
+* <https://russianword.net/yarn.xml>
+* <https://russianword.net/yarn-synsets.csv>
+
+Работа над проектом прекращена с 2018 г.
 
 ## Документация
 
-Тезаурус представлен в форматах XML и CSV, см. [спецификацию](https://nlpub.ru/YARN/Format) на сайте NLPub.
+Общая документация по проекту доступна на сайте NLPub: <https://nlpub.ru/YARN>.
 
 ## Публикации
 
-* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](http://gwc2016.racai.ro/procedings.pdf#page=67))
+* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](http://www.racai.ro/p/gwc2016/procedings.pdf#page=67))
 
 ## Благодарности
 
