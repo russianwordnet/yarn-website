@@ -13,4 +13,5 @@ services:
     - './robots.txt:/srv/jekyll/robots.txt:ro'
     - './yarn.xml:/srv/jekyll/yarn.xml:ro'
     - './yarn-synsets.csv:/srv/jekyll/yarn-synsets.csv:ro'
+    - './yandex_4558b9d321a5b525.html:/srv/jekyll/yandex_4558b9d321a5b525.html:ro'
     - './_site:/srv/jekyll/_site/'
