@@ -12,7 +12,7 @@ We use both XML and CSV formats to represent our import and export data. Please 
 
 ## Publications
 
-* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](http://www.racai.ro/p/gwc2016/procedings.pdf#page=67))
+* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](https://aclanthology.org/2016.gwc-1.10))
 
 ## Acknowledgements
 
