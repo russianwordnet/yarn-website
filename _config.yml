@@ -4,3 +4,12 @@ baseurl: ""
 url: "https://russianword.net"
 github_username: russianwordnet
 theme: minima
+plugins:
+- jekyll-redirect-from
+exclude:
+- Gemfile*
+- README.md
+- CNAME
+safe: true
+timezone: Europe/Moscow
+encoding: UTF-8

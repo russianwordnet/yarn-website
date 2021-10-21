@@ -1,12 +1,17 @@
 ---
 layout: default
 title: О проекте
+redirect_from:
+- /editor
+- /editor/
+- /en
+- /en/
 ---
 
 **Yet Another RussNet** (сокр. YARN) — проект создания нового открытого электронного тезауруса русского языка. Основная идея проекта — эксперимент по комбинированию традиционных принципов создания ворднетов и вики-подхода к наполнению и редактированию лингвистических ресурсов. Тезаурус доступен на условиях лицензии [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
 
-* <https://russianword.net/yarn.xml>
-* <https://russianword.net/yarn-synsets.csv>
+* <https://github.com/russianwordnet/yarn/releases/download/eol/yarn.xml>
+* <https://github.com/russianwordnet/yarn/releases/download/eol/yarn-synsets.csv>
 
 Работа над проектом прекращена с 2018 г.
 
@@ -16,7 +21,7 @@ title: О проекте
 
 ## Публикации
 
-* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](http://www.racai.ro/p/gwc2016/procedings.pdf#page=67))
+* **YARN: Spinning-in-Progress** / P. Braslavski, D. Ustalov, M. Mukhin, Y. Kiselev // Proceedings of the Eight Global Wordnet Conference. — Bucharest, Romania, 2016 — P. 58–65 ([PDF](https://aclanthology.org/2016.gwc-1.10))
 
 ## Благодарности
 
